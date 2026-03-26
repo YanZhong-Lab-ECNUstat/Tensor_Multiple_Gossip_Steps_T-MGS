@@ -1,4 +1,4 @@
-# T-MGS: Topology-Optimal Multiple Gossip Steps for Decentralized Federated Learning
+# T-MGS: Topology-Optimal Multiple Gossip Steps for Decentralized Federated Learning via Gossip Tensor
 
 [![IEEE TNNLS](https://img.shields.io/badge/IEEE%20TNNLS-10.1109%2FTNNLS.2026.3670013-blue)](https://doi.org/10.1109/TNNLS.2026.3670013)
 [![Python 3](https://img.shields.io/badge/Python-3-green)](https://www.python.org/)
